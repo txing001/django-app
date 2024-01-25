@@ -1,0 +1,1 @@
+this project aims to use Django to build a polling app. 
